@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    background-color: yellow;
+    border: 5px white solid;
+    color: black !important;
+}
+.navbar{background-color: #393d3a !important;
+    
+}
+a{color: aliceblue !important;}
+.dropdown-menu{background-color: #393d3a !important;
+    }
+    img{ height: 120vh;}
+    .calluback1{background-color: #393d3a;
+        color: aliceblue;
+    height: 15vh;
+    }
+    .calluback{background-color: #b7bd1a;
+    height: 8vh;
+    width: 150vh;
+    text-align: center;
+
+    position: relative;
+    top:25%;
+}
+   .getintouch{width: 300px;
+    height: 350px;
+    background-color: #393d3a;
+    border: 3px #b7bd1a solid ;
+    position: absolute;
+    top: 100vh;
+    right: 5%;}
+   .number{
+       background-color: #b7bd1a;
+       color: black;
+       height: 40px;
+       width: 250px;
+       position: relative;
+       top: 25px;
+       left: 20px;
+       text-align: center;
+
+    }
+       .number p {
+           position: relative;
+           top: 8px;
+       }
+       .white{ color: white;
+        font-size: 25px
+    ;}
+    .number span button { 
+        border-color: #b7bd1a;
+    padding-left: 20px;
+padding-right: 20px;
+border-radius: 15px;}
+
+.number span .input1{
+    position: relative;
+    top: 10px;
+}
+.number span .input2{
+    position: relative;
+    top: 40px;
+}
+.number span .input3{
+    position: relative;
+    top: 70px;
+}
+.number span .input4{
+    position: relative;
+    top: 100px;}
+    .passion{
+        background-color: yellow;
+        width: 400px;
+        height: 50px;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    .portfolio{
+        width: 100%;
+        height: 200px;
+        background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    }
+    .portfolio div { width: 100px;
+    background-color: yellow;
+height: 10px;
+border-radius: 5px;
+position: relative;
+top: 40px;
+left: 180px;
+}
+    .img1{
+       width: 400px;
+       height: 300px;
+                }
+                .img2{
+                    width:400px;
+                    height: 300px;
+                             }
+                             .img3{
+                                width:400px;
+                                height: 300px;
+                                         }
+                                         .img4{ width:400px;
+                                            height: 300px;}
+                                         .img5{ width:400px;
+                                            height: 300px;}
+                                         .img6{ width:400px;
+                                            height: 300px;}
+                                         .img7{ width:400px;
+                                            height: 300px;}
+                                         .img8{ width:400px;
+                                            height: 300px;}
+                                         .img9{ width:400px;
+                                            height: 300px;}
+
+                                         .one{
+                    display:flex;
+                    flex-direction: row;
+                    justify-content: space-around;
+                margin-left: 20px;   
+            margin-right: 20px;}
+            .two{
+                display:flex;
+                flex-direction: row;
+                justify-content: space-around;
+            margin-left: 20px;   
+        margin-right: 20px;
+    margin-top: 80px;}
+        .three{
+            display:flex;
+            flex-direction: row;
+            justify-content: space-around;
+        margin-left: 20px;   
+    margin-right: 20px;
+margin-top: 80px;
+margin-bottom: 150px;}
+.founderdp{width: 45%;
+height: 500px;
+display: inline-block;
+margin-left: 5%;
+}
+.foundermessage{width: 45%;
+    height: 500px;
+    border: #393d3a solid 2px;
+display: inline-block;
+float:right;
+margin-right: 5%;}
+.founderdp img{width: 99%;
+height: 498px;
+border: #393d3a solid 2px;
+}
+.foundermessage h2{text-align: center;
+    margin-top: 10%;
+}
+.foundermessage p{ margin: 5%;
+}
+.foundermessage button{ margin-left: 5%;
+background-color: #b7bd1a;
+border-radius: 25px;
+padding: 10px 20px 10px 20px;}
+.foundermessage button a{text-decoration: none;}
+.aboutmda{width: 45%;
+    height: 500px;
+    border: #393d3a solid 2px;
+display: inline-block;
+margin-left: 5%;}
+.generalimg{width: 45%;
+    height: 500px;
+    display: inline-block;
+    margin-right: 5%;
+    border: #393d3a solid 2px;
+float: right;}
+.generalimg img{width: 99%;
+    height: 498px;
+    border: #393d3a solid 2px;}
+    .aboutmda h2{text-align: center;
+        margin-top: 10%;}
+        .aboutmda p{margin: 5%;}
+        .aboutmda button{ margin-left: 5%;
+            background-color: #b7bd1a;
+            border-radius: 25px;
+        padding: 10px 20px 10px 20px;}
+        .aboutmda button a {
+            text-decoration: none;
+        }
+
+        .intrested button{
+            display: inline-block;
+            float: right;
+            position: relative;
+            right: 300px;
+            background-color: #b7bd1a;
+            border-radius: 30px;
+            margin-top: 10px;
+            padding: 20px 50px 20px 50px ;
+        }
+        .intrested button a { text-decoration: none;}
+        
+        .left{
+            margin-left: 10%;
+            display: inline-block;
+           
+    
+        }
+        .intrested{
+            margin-top: 150px;
+            margin-bottom: 150px;
+        }
+       footer{display: flex;
+        
+    background-color: #393d3a;
+color: white;}
+
+    .partA{  
+         width: 25%;
+           height: 300px;
+       }
+       
+
+       .partB{
+            width: 25%;
+
+            height: 300px;
+       }
+       .partB li {
+           list-style: none;
+       }
+       
+       .partB li a {
+           text-decoration: none;
+       }
+       .partC{
+        width: 25%;
+        height: 300px;
+       }
+       .partC li{list-style: none;}
+       .partD{
+        width: 25%;
+        height: 300px;
+       }
+       .partD li{list-style: none;}
+       iframe{margin-bottom: 50px ;}
+       .lisence{
+           width: 100%;
+           background-color: black;
+           height: 50px;
+       }
+       .fa-brands{color: #393d3a;
+}
+       .leftA{ display: inline-block; 
+    position: relative;
+top: 15px;
+left: 100px; 
+color: aliceblue;}
+       .rightA{display: inline-block; float: right;
+position: relative;
+top: 15px;
+right: 100px;
+}
+/* Media quiry starrts here */
+@media screen and (max-width:500px){
+    .getintouch{width: 300px;
+        height: 350px;
+        background-color: #393d3a;
+        border: 3px #b7bd1a solid ;
+        position: absolute;
+        top: 160vh;
+        right: 5%;}
+
+}
+
+    
+       
+
+

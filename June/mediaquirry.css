@@ -1,0 +1,35 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+    background-color: #cceeff;
+}
+div{
+    background-color: #0077b3;
+    color:  #53c653;
+    width: 30%;
+    height: 15vh;
+}
+@media screen and (max-width:500px){
+    body{
+        background-color: #ff1a75;
+    }
+    div{
+        background-color: #800033;
+        width: 50%;
+        height: 20vh;
+        text-align: center;}
+}
+@media screen and (min-width: 501px) and (max-width:800px){
+    body{
+        background-color: black;
+    }
+    div{
+        background-color: blueviolet;
+        width: 50%;
+        height: 25vh;
+
+    }
+}
+    
